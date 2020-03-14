@@ -1,213 +1,211 @@
-[
-	{
-		"slug": "crime_and_punishment",
-		"title": "Crime and Punishment",
-		"ru_title": "Преступление и Наказание",
-		"kor_title": "죄와벌",
-		"authors": [
-			"Daktaryeon",
-			"Team Oldrock"
-		],
-		"cover": "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2+rWjolMHq1MK8=",
-		"summary": "Ниша в шоке, когда она встречает нового парня своей матери Перри, который пришел наказать Нишу за то, что она сделала с ним в прошлом.",
-		"publisher": "WebComics",
-		"production_year": "2018",
-		"country": "Южная Корея",
-		"rating": 5775,
-		"score": "8.05",
-		"languages": [
-			"Русский"
-		],
-		"translators": [
-			"Metaroka",
-			"CrazyXacker",
-			"dadazord"
-		],
-		"genres": [
-			"драма",
-			"эротика",
-			"этти",
-			"бдсм",
-			"месть",
-			"психические отклонения",
-			"большая грудь",
-			"плоскодонки",
-			"мегане"
-		],
-		"is_adult": true,
-		"status": "complete",
-		"translation_status": "ongoing",
-		"content_type": "webcomics",
-		"chapters": [
-			{
-			    "number": 9,
-			    "title": "Глава 9",
-			    "date": "09.12.2019",
-			    "images": [
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/4DGNwcmXxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/4DGNwcmbxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/4DGNwcmfxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/4DGNwcmDxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/4DGNwcmHxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/4DGNwcmLxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/4DGNwcmPxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/4DGNwcmzxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/4DGNwcm3xKrhS"
-			    ]
-			}, {
-			    "number": 10,
-			    "title": "Глава 10: Беспокойство",
-			    "date": "13.12.2019",
-			    "images": [
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BWNwcmXxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BWNwcmbxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BWNwcmfxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BWNwcmDxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BWNwcmHxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BWNwcmLxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BWNwcmPxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BWNwcmzxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BWNwcm3xKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BWNwc2TxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BWNwc2XxKrhS"
-			    ]
-			}, {
-			    "number": 11,
-			    "title": "Глава 11: Основное блюдо",
-			    "date": "21.12.2019",
-			    "images": [
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BGNwcmXxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BGNwcmbxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BGNwcmfxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BGNwcmDxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BGNwcmHxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BGNwcmLxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BGNwcmPxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BGNwcmzxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BGNwcm3xKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BGNwc2TxKrhS"
-			    ]
-			}, {
-			    "number": 12,
-			    "title": "Глава 12: Интриги",
-			    "date": "01.04.2020",
-			    "images": [
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5B2NwcmXxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5B2NwcmbxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5B2NwcmfxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5B2NwcmDxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5B2NwcmHxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5B2NwcmLxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5B2NwcmPxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5B2NwcmzxKrhS"
-			    ]
-			}, {
-			    "number": 13,
-			    "title": "Глава 13: Депрессия",
-			    "date": "09.01.2020",
-			    "images": [
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BmNwcmXxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BmNwcmbxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BmNwcmfxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BmNwcmDxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BmNwcmHxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BmNwcmLxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BmNwcmPxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BmNwcmzxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5BmNwcm3xKrhS"
-			    ]
-			}, {
-			    "number": 14,
-			    "title": "Глава 14: Перевозбуждённая",
-			    "date": "17.01.2020",
-			    "images": [
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AWNwcmXxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AWNwcmbxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AWNwcmfxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AWNwcmDxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AWNwcmHxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AWNwcmLxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AWNwcmPxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AWNwcmzxKrhS"
-			    ]
-			}, {
-			    "number": 15,
-			    "title": "Глава 15: Бутылочка",
-			    "date": "25.01.2020",
-			    "images": [
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AGNwcmXxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AGNwcmbxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AGNwcmfxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AGNwcmDxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AGNwcmHxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AGNwcmLxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AGNwcmPxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AGNwcmzxKrhS"
-			    ]
-			}, {
-			    "number": 16,
-			    "title": "Глава 16: Вредная привычка",
-			    "date": "31.01.2020",
-			    "images": [
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5A2NwcmXxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5A2NwcmbxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5A2NwcmfxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5A2NwcmDxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5A2NwcmHxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5A2NwcmLxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5A2NwcmPxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5A2NwcmzxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5A2Nwcm3xKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5A2Nwc2TxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5A2Nwc2XxKrhS"
-			    ]
-			}, {
-			    "number": 17,
-			    "title": "Глава 17: Миллион долларов",
-			    "date": "08.02.2020",
-			    "images": [
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AmNwcmXxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AmNwcmbxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AmNwcmfxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AmNwcmDxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AmNwcmHxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AmNwcmLxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AmNwcmPxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AmNwcmzxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AmNwcm3xKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AmNwc2TxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5AmNwc2XxKrhS"
-			    ]
-			}, {
-			    "number": 18,
-			    "title": "Глава 18: Половина шестого",
-			    "date": "07.03.2020",
-			    "images": [
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5DWNwcmXxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5DWNwcmbxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5DWNwcmfxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5DWNwcmDxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5DWNwcmHxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5DWNwcmLxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5DWNwcmPxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5DWNwcmzxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5DWNwcm3xKrhS"
-			    ]
-			}, {
-			    "number": 19,
-			    "title": "Глава 19: Под деревом в ночи",
-			    "date": "14.03.2020",
-			    "images": [
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5DGNwcmXxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5DGNwcmbxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5DGNwcmfxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5DGNwcmDxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5DGNwcmHxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5DGNwcmLxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5DGNwcmPxKrhS",
-			        "PKs0uA9jbys5vietRmItIzq4Ib9UOCMqMa045lYjLW05vi6vVGMjMD2yJZdUIiQdJKouoUYkLSc6q2/5DGNwcmzxKrhS"
-			    ]
-			}
-		]
-	}
-]
+{
+	"slug": "crime_and_punishment",
+	"title": "Crime and Punishment",
+	"ru_title": "Преступление и Наказание",
+	"kor_title": "죄와벌",
+	"authors": [
+		"Daktaryeon",
+		"Team Oldrock"
+	],
+	"cover": "https://anilabx.github.io/TransLab/list.json",
+	"summary": "Ниша в шоке, когда она встречает нового парня своей матери Перри, который пришел наказать Нишу за то, что она сделала с ним в прошлом.",
+	"publisher": "WebComics",
+	"production_year": "2018",
+	"country": "Южная Корея",
+	"rating": 5775,
+	"score": "8.05",
+	"languages": [
+		"Русский"
+	],
+	"translators": [
+		"Metaroka",
+		"CrazyXacker",
+		"dadazord"
+	],
+	"genres": [
+		"драма",
+		"эротика",
+		"этти",
+		"бдсм",
+		"месть",
+		"психические отклонения",
+		"большая грудь",
+		"плоскодонки",
+		"мегане"
+	],
+	"is_adult": true,
+	"status": "complete",
+	"translation_status": "ongoing",
+	"content_type": "webcomics",
+	"chapters": [
+		{
+		    "number": 9,
+		    "title": "Глава 9",
+		    "date": "09.12.2019",
+		    "images": [
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9eDGNwcmVcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9eDGNwcmZcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9eDGNwcmdcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9eDGNwcmBcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9eDGNwcmFcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9eDGNwcmJcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9eDGNwcmNcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9eDGNwcmxcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9eDGNwcm1cKh5S"
+		    ]
+		}, {
+		    "number": 10,
+		    "title": "Глава 10: Беспокойство",
+		    "date": "13.12.2019",
+		    "images": [
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBWNwcmVcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBWNwcmZcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBWNwcmdcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBWNwcmBcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBWNwcmFcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBWNwcmJcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBWNwcmNcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBWNwcmxcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBWNwcm1cKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBWNwc2RcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBWNwc2VcKh5S"
+		    ]
+		}, {
+		    "number": 11,
+		    "title": "Глава 11: Основное блюдо",
+		    "date": "21.12.2019",
+		    "images": [
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBGNwcmVcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBGNwcmZcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBGNwcmdcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBGNwcmBcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBGNwcmFcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBGNwcmJcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBGNwcmNcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBGNwcmxcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBGNwcm1cKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBGNwc2RcKh5S"
+		    ]
+		}, {
+		    "number": 12,
+		    "title": "Глава 12: Интриги",
+		    "date": "01.04.2020",
+		    "images": [
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fB2NwcmVcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fB2NwcmZcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fB2NwcmdcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fB2NwcmBcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fB2NwcmFcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fB2NwcmJcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fB2NwcmNcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fB2NwcmxcKh5S"
+		    ]
+		}, {
+		    "number": 13,
+		    "title": "Глава 13: Депрессия",
+		    "date": "09.01.2020",
+		    "images": [
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBmNwcmVcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBmNwcmZcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBmNwcmdcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBmNwcmBcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBmNwcmFcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBmNwcmJcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBmNwcmNcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBmNwcmxcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fBmNwcm1cKh5S"
+		    ]
+		}, {
+		    "number": 14,
+		    "title": "Глава 14: Перевозбуждённая",
+		    "date": "17.01.2020",
+		    "images": [
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAWNwcmVcKh5S"
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAWNwcmZcKh5S"
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAWNwcmdcKh5S"
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAWNwcmBcKh5S"
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAWNwcmFcKh5S"
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAWNwcmJcKh5S"
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAWNwcmNcKh5S"
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAWNwcmxcKh5S"
+		    ]
+		}, {
+		    "number": 15,
+		    "title": "Глава 15: Бутылочка",
+		    "date": "25.01.2020",
+		    "images": [
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAGNwcmVcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAGNwcmZcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAGNwcmdcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAGNwcmBcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAGNwcmFcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAGNwcmJcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAGNwcmNcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAGNwcmxcKh5S"
+		    ]
+		}, {
+		    "number": 16,
+		    "title": "Глава 16: Вредная привычка",
+		    "date": "31.01.2020",
+		    "images": [
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fA2NwcmVcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fA2NwcmZcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fA2NwcmdcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fA2NwcmBcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fA2NwcmFcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fA2NwcmJcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fA2NwcmNcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fA2NwcmxcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fA2Nwcm1cKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fA2Nwc2RcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fA2Nwc2VcKh5S"
+		    ]
+		}, {
+		    "number": 17,
+		    "title": "Глава 17: Миллион долларов",
+		    "date": "08.02.2020",
+		    "images": [
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAmNwcmVcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAmNwcmZcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAmNwcmdcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAmNwcmBcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAmNwcmFcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAmNwcmJcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAmNwcmNcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAmNwcmxcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAmNwcm1cKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAmNwc2RcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fAmNwc2VcKh5S"
+		    ]
+		}, {
+		    "number": 18,
+		    "title": "Глава 18: Половина шестого",
+		    "date": "07.03.2020",
+		    "images": [
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fDWNwcmVcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fDWNwcmZcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fDWNwcmdcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fDWNwcmBcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fDWNwcmFcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fDWNwcmJcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fDWNwcmNcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fDWNwcmxcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fDWNwcm1cKh5S"
+		    ]
+		}, {
+		    "number": 19,
+		    "title": "Глава 19: Под деревом в ночи",
+		    "date": "14.03.2020",
+		    "images": [
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fDGNwcmVcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fDGNwcmZcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fDGNwcmdcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fDGNwcmBcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fDGNwcmFcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fDGNwcmJcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fDGNwcmNcKh5S",
+		        "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGMjMD0fJTFUIiQdJAcuB0YkLSc6Bm9fDGNwcmxcKh5S"
+		    ]
+		}
+	]
+}
