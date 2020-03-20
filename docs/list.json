@@ -38,5 +38,41 @@
 		"status": "complete",
 		"translation_status": "ongoing",
 		"content_type": "webcomics"
+	}, {
+		"slug": "the_girl_next_door",
+		"title": "The Girl Next Door",
+		"ru_title": "Девушка по соседству",
+		"kor_title": "옆집소녀",
+		"authors": [
+			"Imstar"
+		],
+		"cover": "PAY0Hg9jbys5EycLRmItIzoVIRlUOCMqMQA4QFYjLW05Ey4JVGM0KjEtJwdHIB8sMQo0MVEjLzB7ES8YUD5uKCQV",
+		"summary": "Моя жена умерла. Единственное, что изменилось, это то... что теперь я один в этом месте, где нас было двое, и девушка по соседству больше не приходит. Раньше это было единственным событием...",
+		"publisher": "TopToon",
+		"production_year": "2016",
+		"country": "Южная Корея",
+		"rating": 12677,
+		"score": "7.16",
+		"languages": [
+			"Русский"
+		],
+		"translators": [
+			"Metaroka",
+			"Megalastik"
+		],
+		"genres": [   
+			"драма",
+			"психология",
+			"романтика",
+			"сэйнэн",
+			"эротика",
+			"этти",
+			"гарем",
+			"повседневность"
+		],
+		"is_adult": true,
+		"status": "complete",
+		"translation_status": "ongoing",
+		"content_type": "webcomics"
 	}
 ]
